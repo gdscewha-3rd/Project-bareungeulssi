@@ -1,0 +1,29 @@
+server:
+  #address: 172.31.34.11
+  #port: 80
+  port: 8000
+  #port: 443 #https
+
+spring:
+  profiles:
+    active: real
+    #active: local
+    #include: oauth
+  config:
+    imports: classpath:/s3.yml #, classpath:/application-social.properties -ec2 배포시엔 이것 활성화 #ec2에 따로 저장하고 deploy.sh 끝단에 속성파일 포함시키기
+    #import:
+      #- classpath:/s3.yml
+      #- classpath:/application-social.properties
+
+  jpa:
+    properties:
+      hibernate:
+        format-sql: true
+        show-sql: true
+  thymeleaf:
+    cache: false
+  session:
+    store-type: jdbc
+devtools:
+  livereload:
+    enabled: true

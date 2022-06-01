@@ -1,0 +1,11 @@
+spring:
+  config:
+    imports: classpath:/real-db.yml
+  session:
+    store-type: jdbc
+logging:
+  level:
+    com:
+      amazonaws:
+        util:
+          EC2MetadataUtils: error
