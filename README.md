@@ -3,13 +3,6 @@
 ### 📁 디렉토리 소개
 - Backend : 앱의 서버 
 - Frontend : 앱의 프론트
-- ML : 앱 내 딥러닝 기술 
-
-### :movie_camera: 시연영상 링크(Youtube)
-알바트로스-바른글씨 UI 프로토타입 링크: https://youtu.be/PXyZEEkt-OQ  
-알바트로스-바른글씨 시연영상 링크: https://youtu.be/vZpOjUITChw    
-알바트로스-포스터세션 발표영상 링크: https://youtu.be/TbxrhyyXWp4     
-알바트로스-한국정보처리학회 2022 ASK 참여-논문 게재 및 학술발표대회 참여: https://youtu.be/5G6AKJ6-9jo 
 
 ## 프로젝트 소개
 
