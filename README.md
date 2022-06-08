@@ -41,8 +41,7 @@
 프론트엔드: React Native  
 딥러닝: PyTorch, OpenCV, BentoML, Docker   
 백엔드: SpringBoot, MariaDB, AWS EC2, AWS S3, AWS RDS  
-
-<hr/>     
+     
 ### 📆 프로젝트 일정
 #### 3월
 - [x] 프론트엔드 - 화면 작업 완료
@@ -53,8 +52,7 @@
 - [x] 논문 작성
 #### 5월
 - [x] 프론트엔드와 백엔드 연결
-- [x] 프로젝트 완료
-<hr/>     
+- [x] 프로젝트 완료   
 
 ### 🦅 팀 알바트로스
 |💛 오지은|💙 민경원|🖤 고주은|
